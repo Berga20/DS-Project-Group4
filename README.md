@@ -1,2 +1,2 @@
 # DS-Project
- Data Science Seminar Final prject
+ Data Science Seminar Final project
