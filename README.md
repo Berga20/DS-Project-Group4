@@ -10,4 +10,4 @@ The following notebooks can be accessed:
 
 The notebook also contains the Project Report describing in detail the data used, the methodology applied in the reaserch and the results obtain compared to the ones outlined in the paper. 
 
-*Authors:  Marco Bergamin, Felix Thierbach, Lara Cerqueira, Hidde van de Burgwal & Antonius von Oertzen - [Group 3]*
+*Authors:  Marco Bergamin, Felix Thierbach, Lara Cerqueira, Hidde van de Burgwal & Antonius von Oertzen - [Group 4]*
